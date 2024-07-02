@@ -35,11 +35,11 @@ This folder contains very small projects that I made for my convenience. Nothing
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/beginner-java-programs.git
+   git clone https://github.com/ciiphersiren/beginnerjava.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd beginner-java-programs
+   cd beginnerjava
    ```
 3. Open the programs in your preferred Java IDE or text editor.
 4. Compile and run the programs to see the output.

@@ -1,10 +1,10 @@
 # Beginner Java Programs Repository
 
-Welcome to my Beginner Java Programs Repository! This repository documents all the basic Java programs I built during the early stages of my Java learning journey.
+Welcome to my Beginner Java Programs Repository! This repository documents all the basic Java programs I built during the early stages of my Java learning journey🌱
 
 ## About
 
-This collection is a compilation of simple Java programs that I created as I started learning the language. These programs cover fundamental concepts and serve as a stepping stone for anyone beginning their Java programming adventure.
+This collection is a compilation of simple Java programs that I created as I started learning the language. These programs covered fundamental concepts and served as a stepping stone for me to begin my Java programming adventure.
 
 ## Programs Included
 

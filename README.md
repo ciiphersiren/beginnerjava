@@ -1,37 +1,37 @@
-# Beginner Java Programs Repository
+# 🌟 Beginner Java Programs Repository
 
-Welcome to my Beginner Java Programs Repository! This repository documents all the basic Java programs I built during the early stages of my Java learning journey🌱
+Welcome to my **Beginner Java Programs Repository**! This repository documents all the basic Java programs I built during the early stages of my Java learning journey.
 
-## About
+## 📚 About
 
-This collection is a compilation of simple Java programs that I created as I started learning the language. These programs covered fundamental concepts and served as a stepping stone for me to begin my Java programming adventure.
+This collection is a compilation of simple Java programs that I created as I started learning the language. These programs cover fundamental concepts and serve as a stepping stone for anyone beginning their Java programming adventure.
 
-## Programs Included
+## 📂 Programs Included
 
-### Magic/Potions (Making of Packages)
-- `HealingPotion.java`
-- `InvisibilityPotion.java`
-- `StrengthPotion.java`
+### 🧙‍♂️ Magic/Potions (Making of Packages)
+- 🧪 `HealingPotion.java`
+- 🧪 `InvisibilityPotion.java`
+- 🧪 `StrengthPotion.java`
 
-### Smol Projects
+### 🔧 Smol Projects
 This folder contains very small projects that I made for my convenience. Nothing too hard, just simple convenient wishes.
-- `MorseCodeDecoder.java`
-- `caseChanger.java`
+- 📡 `MorseCodeDecoder.java`
+- 🔠 `caseChanger.java`
 
-### Space/Missions (Making Packages)
-- `JupiterMission.java`
-- `MarsMission.java`
-- `SaturnMission.java`
+### 🚀 Space/Missions (Making Packages)
+- 🪐 `JupiterMission.java`
+- 🔴 `MarsMission.java`
+- 💫 `SaturnMission.java`
 
-### Other Programs
-- `MagicalCreature.java` (Use of Interface)
-- `NumberUtils.java` (Making a Function to Find if a Number is Narcissistic)
-- `PotionShop.java` (Using Packages)
-- `Solution.java` (Using Packages)
-- `SpaceAdventure.java` (Using Packages)
-- `test.java` (Implementing Threads)
+### 📜 Other Programs
+- 🐉 `MagicalCreature.java` (Use of Interface)
+- 🔢 `NumberUtils.java` (Making a Function to Find if a Number is Narcissistic)
+- 🛒 `PotionShop.java` (Using Packages)
+- 💡 `Solution.java` (Using Packages)
+- 🛰️ `SpaceAdventure.java` (Using Packages)
+- 🧵 `test.java` (Implementing Threads)
 
-## How to Use
+## 🚀 How to Use
 
 1. Clone the repository:
    ```sh
@@ -44,8 +44,8 @@ This folder contains very small projects that I made for my convenience. Nothing
 3. Open the programs in your preferred Java IDE or text editor.
 4. Compile and run the programs to see the output.
 
-## Contributing
+## 🤝 Contributing
 
 Feel free to contribute by adding more basic programs or improving the existing ones. Fork the repository, make your changes, and submit a pull request.
 
-Happy coding!
+Happy coding! 🎉
